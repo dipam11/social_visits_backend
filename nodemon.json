@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "socialX",
+        "DB_PASSWORD": "socialX11",
+        "DB_NAME": "mern",
+        "LOCATION_API_KEY": "3b5745adffc1468bb3eff1e040ec9f79",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
